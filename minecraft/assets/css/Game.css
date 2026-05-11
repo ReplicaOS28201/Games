@@ -24,3 +24,19 @@ body,html {
   width:100px;
   height:25px;
 }
+.textwhitebold {
+  font-weight: bold;
+  color: white;
+}
+.textwhitenormal {
+  font-weight: normal;
+  color:white;
+}
+.textblackbold {
+  font-weight: bold;
+  color:black;
+}
+.textblacknormal {
+  font-weight: normal;
+  color:black;
+}
